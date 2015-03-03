@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipsteroidcsample",
+    "packageName": "de.witcom.app",
+    "packageFolder": "de/witcom/app",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "9aa098ed6c48827ef36195571fb04600cf48018c"
+  }
+}

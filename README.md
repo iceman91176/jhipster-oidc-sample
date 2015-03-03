@@ -1,1 +1,2 @@
-# jhipster-oidc-sample
+README for jhipsteroidcsample
+==========================

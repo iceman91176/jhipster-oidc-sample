@@ -1,0 +1,20 @@
+{
+    "login": {
+        "title": "Authentification",
+        "form": {
+            "password": "Mot de passe",
+            "password.placeholder": "Votre mot de passe",
+            "rememberme": "Garder la session ouverte",
+            "button": "Connexion"
+        },
+        "messages": {
+            "error": {
+                "authentication": "<strong>Erreur d'authentification!</strong> Veuillez vérifier vos identifiants de connexion."
+            }
+        },
+        "external": {
+            "or": "ou"
+        }
+        
+    }
+}
